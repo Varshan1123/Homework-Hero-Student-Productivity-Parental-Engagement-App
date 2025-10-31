@@ -23,10 +23,6 @@
 - [Business Canvas](#-business-canvas)
 - [Feature Prioritization](#-feature-prioritization-rice-framework)
 - [Product Roadmap](#-product-roadmap)
-- [Future Plans](#-future-plans)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Contact & Support](#-contact--support)
 
 ---
 
