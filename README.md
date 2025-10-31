@@ -49,7 +49,7 @@ For calculation purposes, let’s use global and India-focused examples, since y
  
 Market Size Calculations<br>
 * TAM — Total Addressable Market<br>
- * Everyone who could theoretically use this type of product worldwide.<br>
+   - Everyone who could theoretically use this type of product worldwide.<br>
 	* • There are about 1.5 billion students globally in K–12 (UNESCO data).<br>
 	* • Assume an average $2 per user/month subscription model or in-app monetization.<br>
 	* • TAM = 1.5B students × $2 × 12 months = $36 billion annually.<br>
