@@ -50,26 +50,26 @@ For calculation purposes, let’s use global and India-focused examples, since y
 Market Size Calculations<br>
 * TAM — Total Addressable Market<br>
    - Everyone who could theoretically use this type of product worldwide.<br>
-	* • There are about 1.5 billion students globally in K–12 (UNESCO data).<br>
-	* • Assume an average $2 per user/month subscription model or in-app monetization.<br>
-	* • TAM = 1.5B students × $2 × 12 months = $36 billion annually.<br>
-          * TAM ≈ $36B globally<br>
+	  - There are about 1.5 billion students globally in K–12 (UNESCO data).<br>
+	  - Assume an average $2 per user/month subscription model or in-app monetization.<br>
+	  - TAM = 1.5B students × $2 × 12 months = $36 billion annually.<br>
+          - TAM ≈ $36B globally<br>
 
 * SAM — Serviceable Available Market<br>
-* Let’s assume you target urban, tech-connected families in India first:<br>
-	* • Around 100 million students in India’s urban and semi-urban K–12 education system.<br>
-	* • Smartphone penetration: roughly 70% (so ~70M potential users).<br>
-	* • Assume 30% of them are realistically reachable for digital education tools → 21M users.<br>
-	* • 21M × $2 × 12 months = $504 million annually.<br>
-          * SAM ≈ $500M (India-focused)<br>
+   - Let’s assume you target urban, tech-connected families in India first:<br>
+	  -  Around 100 million students in India’s urban and semi-urban K–12 education system.<br>
+	  - Smartphone penetration: roughly 70% (so ~70M potential users).<br>
+	  -  Assume 30% of them are realistically reachable for digital education tools → 21M users.<br>
+	  -  21M × $2 × 12 months = $504 million annually.<br>
+          -  SAM ≈ $500M (India-focused)<br>
 
 * SOM — Serviceable Obtainable Market<br>
-* If we can capture just 1% of the SAM in India:<br>
-	* • 1% × $500M = $5 million annual potential revenue.<br>
-           * SOM ≈ $5M (short-term realistic goal)<br>
+   - If we can capture just 1% of the SAM in India:<br>
+	 - 1% × $500M = $5 million annual potential revenue.<br>
+           - SOM ≈ $5M (short-term realistic goal)<br>
 
 Takeaway:<br>
-   * The TAM-SAM-SOM framework shows strong scalability potential — your app starts in a niche (India’s student productivity market) but sits in a multi-billion global opportunity.
+   - The TAM-SAM-SOM framework shows strong scalability potential — your app starts in a niche (India’s student productivity market) but sits in a multi-billion global opportunity.
 
 ## Impact Mapping
 <img width="1594" height="571" alt="image" src="https://github.com/user-attachments/assets/3fca68a9-abed-4043-aa0a-8ec65ee0ce3c" />
