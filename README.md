@@ -6,7 +6,7 @@ Built using Glide, the app connects students, parents, and teachers to create ac
 This project was developed end-to-end as part of a Product Management learning journey, applying real-world PM frameworks and techniques — from user research to MVP launch.
 
 ## Problem Statement
-Students often struggle to complete homework consistently due to lack of structure, motivation, and real-time feedback. Parents have limited visibility into their child’s progress, and teachers find it difficult to track submissions across multiple students. This results in missed deadlines, lower engagement, and poor accountability.
+Students often struggle to complete homework consistently due to lack of structure, motivation, and real-time feedback. Parents have limited visibility into their child’s progress, and teachers find it difficult to track submissions across multiple students. This results in missed deadlines, lower engagement, and poor accountability. <br>
 Homework Hero bridges this gap by providing:
 Enabling teachers to assign and monitor homework.
 A centralized dashboard for students to view and submit homework.
