@@ -8,10 +8,10 @@ This project was developed end-to-end as part of a Product Management learning j
 ## Problem Statement
 Students often struggle to complete homework consistently due to lack of structure, motivation, and real-time feedback. Parents have limited visibility into their child’s progress, and teachers find it difficult to track submissions across multiple students. This results in missed deadlines, lower engagement, and poor accountability. <br>
 Homework Hero bridges this gap by providing:
-Enabling teachers to assign and monitor homework.
-A centralized dashboard for students to view and submit homework.
-Notifications for parents once all homework is done.
-A reward-based motivation system that reinforces positive study habits.
+Enabling teachers to assign and monitor homework.<br>
+A centralized dashboard for students to view and submit homework.<br>
+Notifications for parents once all homework is done.<br>
+A reward-based motivation system that reinforces positive study habits.<br>
 
 ## Product Vision
 To make learning more engaging and accountable by integrating students, parents, and teachers into one seamless digital workflow.
@@ -22,7 +22,7 @@ To make learning more engaging and accountable by integrating students, parents,
 <img width="927" height="622" alt="image" src="https://github.com/user-attachments/assets/821b29ff-5717-40e9-b138-5d28484ed4d2" />
 
 ## Product Strategy
-Frameworks Used
+Frameworks Used:<br>
 Impact Mapping – Defined product goals and user impacts.
 Business Model Canvas – Outlined value proposition, key users, and revenue ideas.
 RICE Framework – Prioritized MVP features based on Reach, Impact, Confidence, and Effort.
@@ -30,7 +30,7 @@ TAM / SAM / SOM Analysis – Estimated total addressable market for digital stud
 
 ## Competitor Analysis
 
-Main Competitors:
+Main Competitors:<br>
 • Google Classroom – used by teachers and schools to assign and manage homework.
 • Forest / Focus To-Do – helps users (including students) stay focused by gamifying tasks.
 • Google Family Link / Apple Screen Time – allows parents to control when and how kids use devices or apps.
