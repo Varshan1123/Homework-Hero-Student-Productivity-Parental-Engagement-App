@@ -66,10 +66,10 @@ Market Size Calculations<br>
 * SOM — Serviceable Obtainable Market<br>
    - If we can capture just 1% of the SAM in India:<br>
 	 - 1% × $500M = $5 million annual potential revenue.<br>
-           - SOM ≈ $5M (short-term realistic goal)<br>
+           -  SOM ≈ $5M (short-term realistic goal)<br>
 
 Takeaway:<br>
-   - The TAM-SAM-SOM framework shows strong scalability potential — your app starts in a niche (India’s student productivity market) but sits in a multi-billion global opportunity.
+   The TAM-SAM-SOM framework shows strong scalability potential — your app starts in a niche (India’s student productivity market) but sits in a multi-billion global opportunity.
 
 ## Impact Mapping
 <img width="1594" height="571" alt="image" src="https://github.com/user-attachments/assets/3fca68a9-abed-4043-aa0a-8ec65ee0ce3c" />
