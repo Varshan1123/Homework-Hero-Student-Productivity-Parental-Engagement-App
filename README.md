@@ -1,4 +1,5 @@
 # Homework-Hero-Student-Productivity-Parental-Engagement-App
+Live App Link: https://school-homework-app-ndlu.glide.page/
 
 ## Overview
 Homework Hero is a no-code education app designed to help students stay productive by tracking homework, submitting assignments, and earning playtime rewards with parental approval.
