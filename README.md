@@ -17,18 +17,19 @@ Homework Hero bridges this gap by providing:<br>
 ## Product Vision
 To make learning more engaging and accountable by integrating students, parents, and teachers into one seamless digital workflow.
 
-## User Personas
-<img width="1536" height="1024" alt="Persona-1" src="https://github.com/user-attachments/assets/13d56a97-4c83-483e-a105-994ea5cd002f" />
-<img width="1536" height="1024" alt="Persona-2" src="https://github.com/user-attachments/assets/ba867284-f9cb-44f0-8723-ce70947f7bff" />
-<img width="1536" height="1024" alt="Persona-3" src="https://github.com/user-attachments/assets/c08286d6-5a21-46ad-855f-716497eda693" />
-
-
 ## Product Strategy
 Frameworks Used:<br>
 Impact Mapping – Defined product goals and user impacts.<br>
 Business Model Canvas – Outlined value proposition, key users, and revenue ideas.<br>
 RICE Framework – Prioritized MVP features based on Reach, Impact, Confidence, and Effort.<br>
 TAM / SAM / SOM Analysis – Estimated total addressable market for digital student productivity tools (~$25M+).<br>
+
+
+## User Personas
+<img width="1536" height="1024" alt="Persona-1" src="https://github.com/user-attachments/assets/13d56a97-4c83-483e-a105-994ea5cd002f" />
+<img width="1536" height="1024" alt="Persona-2" src="https://github.com/user-attachments/assets/ba867284-f9cb-44f0-8723-ce70947f7bff" />
+<img width="1536" height="1024" alt="Persona-3" src="https://github.com/user-attachments/assets/c08286d6-5a21-46ad-855f-716497eda693" />
+
 
 ## Competitor Analysis
 
