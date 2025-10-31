@@ -18,9 +18,10 @@ Homework Hero bridges this gap by providing:<br>
 To make learning more engaging and accountable by integrating students, parents, and teachers into one seamless digital workflow.
 
 ## User Personas
-<img width="930" height="621" alt="image" src="https://github.com/user-attachments/assets/6e7fb4f3-410b-4ff0-a503-6fd66e21d714" />
-<img width="928" height="619" alt="image" src="https://github.com/user-attachments/assets/50d46bb8-b37e-4786-8694-ac5b45171ed2" />
-<img width="927" height="622" alt="image" src="https://github.com/user-attachments/assets/821b29ff-5717-40e9-b138-5d28484ed4d2" />
+<img width="1536" height="1024" alt="Persona-1" src="https://github.com/user-attachments/assets/13d56a97-4c83-483e-a105-994ea5cd002f" />
+<img width="1536" height="1024" alt="Persona-2" src="https://github.com/user-attachments/assets/ba867284-f9cb-44f0-8723-ce70947f7bff" />
+<img width="1536" height="1024" alt="Persona-3" src="https://github.com/user-attachments/assets/c08286d6-5a21-46ad-855f-716497eda693" />
+
 
 ## Product Strategy
 Frameworks Used:<br>
