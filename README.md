@@ -7,7 +7,7 @@ This project was developed end-to-end as part of a Product Management learning j
 
 ## Problem Statement
 Students often struggle to complete homework consistently due to lack of structure, motivation, and real-time feedback. Parents have limited visibility into their child’s progress, and teachers find it difficult to track submissions across multiple students. This results in missed deadlines, lower engagement, and poor accountability. <br>
-Homework Hero bridges this gap by providing:
+Homework Hero bridges this gap by providing:<br>
 • Enabling teachers to assign and monitor homework.<br>
 • A centralized dashboard for students to view and submit homework.<br>
 • Notifications for parents once all homework is done.<br>
@@ -34,27 +34,12 @@ Main Competitors:<br>
 • Google Classroom – used by teachers and schools to assign and manage homework.<br>
 • Forest / Focus To-Do – helps users (including students) stay focused by gamifying tasks.<br>
 • Google Family Link / Apple Screen Time – allows parents to control when and how kids use devices or apps.<br>
+<img width="595" height="76" alt="image" src="https://github.com/user-attachments/assets/6facd892-4747-4a33-8897-36ae193aadf0" />
 
-Competitor	Strengths	Weaknesses	Opportunity for You<br>
-Google Classroom	Strong school integration	Not motivating; lacks parental link	Add fun + parent visibility<br>
-Forest / Focus To-Do	Great gamification	Not school-specific	Adapt gamification for homework<br>
-Family Link / Screen Time	Deep parental control	Restrictive, not engaging	Turn control into motivation and reward<br>
-<img width="1237" height="364" alt="image" src="https://github.com/user-attachments/assets/914fcae4-4819-40fc-9490-551695ad428b" />
-
-Feature Analysis <br>
+Feature Analysis: <br>
 <img width="1051" height="353" alt="image" src="https://github.com/user-attachments/assets/1563aaf9-1b34-40e2-93b5-2303e3251e8b" />
-(Stars represent relative strength — 1★ = low, 5★ = high)<br>
 
-Opportunities for Your Product to Stand Out:<br>
-	1. Motivation-Driven Design (Fun for Students)<br>
-		○ Most parental control apps feel restrictive.<br>
-		○ Your product can stand out by making focus feel rewarding, e.g., students earn “playtime tokens” after finishing homework — blending structure with fun.<br>
-	2. School–Parent–Student Connection in One Place<br>
-		○ Current apps are usually either for schools (Google Classroom) or parents (Family Link) — rarely both.<br>
-		○ Your product could bridge all three by letting teachers assign tasks, parents monitor progress, and students stay motivated.<br>
-	3. Positive Reinforcement Instead of Punishment<br>
-		○ Competing apps often rely on blocking or limiting.<br>
-		○ Your product can use behavioral psychology (like badges, streaks, or mini games) to encourage responsibility rather than restrict freedom.<br>
+
 <img width="1586" height="281" alt="image" src="https://github.com/user-attachments/assets/943328b0-3272-4f15-a798-9a3cf1fca08a" />
 
 ## Market Size:
