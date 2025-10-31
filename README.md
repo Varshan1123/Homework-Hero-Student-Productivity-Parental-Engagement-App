@@ -1,6 +1,6 @@
 # Homework-Hero-Student-Productivity-Parental-Engagement-App
 
-Overview
+##Overview
 Homework Hero is a no-code education app designed to help students stay productive by tracking homework, submitting assignments, and earning playtime rewards with parental approval.
 Built using Glide, the app connects students, parents, and teachers to create accountability, motivation, and communication around daily learning tasks.
 This project was developed end-to-end as part of a Product Management learning journey, applying real-world PM frameworks and techniques — from user research to MVP launch.
