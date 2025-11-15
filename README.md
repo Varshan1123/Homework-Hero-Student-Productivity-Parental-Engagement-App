@@ -23,6 +23,7 @@
 - [Business Canvas](#-business-canvas)
 - [Feature Prioritization](#-feature-prioritization-rice-framework)
 - [Product Roadmap](#-product-roadmap)
+- [User Stories](#-User-Stories)
 
 ---
 
@@ -258,6 +259,23 @@ Used RICE scoring to prioritize features for MVP and future releases:
 - School district management tools
 - AI-powered insights and recommendations
 - Expanded marketplace for educational content
+
+---
+
+## 📋 User Stories
+
+- As a teacher, I want to create and assign homework to specific students, so that each student knows exactly what tasks they need to complete for the day.
+- As a teacher, I want to view the homework submissions for each student, so that I can verify completion and track progress efficiently.
+- As a teacher, I want to edit or delete an assigned homework, so that I can fix mistakes or update instructions if needed.
+- As a teacher, I want to see which students have not yet submitted homework, so that I can follow up and ensure accountability.
+
+- As a student, I want to see all homework assigned to me in one dashboard, so that I can stay organized and know what needs to be done today.
+- As a student, I want to upload my completed homework, so that my teacher can review and mark it as completed.
+- As a student, I want to see whether each homework is completed or pending, so that I can track my progress.
+- As a student, I want to request a playtime reward after finishing all my homework, so that I stay motivated and earn rewards for my effort.
+
+- As a parent, I want to receive notifications when homework is assigned or completed, so that I can stay aware of my child’s daily learning tasks.
+- As a parent, I want to approve or decline playtime rewards after my child completes all homework, so that I can manage screen time responsibly.
 
 ---
 
