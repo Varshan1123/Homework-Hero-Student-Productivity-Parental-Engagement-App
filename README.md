@@ -282,12 +282,12 @@ Used RICE scoring to prioritize features for MVP and future releases:
 ## ✅ Acceptance Criteria
 
 #### As a teacher
-- <p>Given I am logged in as a teacher,
-- When I open the “Create Homework” form,
-- Then I should be able to enter a title, subject, description, Assigned to and due date.</p>
-<p>Given I have entered the homework details,
-When I select one or more students from the student list,
-Then the homework should be assigned only to the selected students.</p>
+<p>Given I am logged in as a teacher,<br />
+   When I open the “Create Homework” form,<br />
+   Then I should be able to enter a title, subject, description, Assigned to and due date.</p>
+<p>Given I have entered the homework details,<br />
+   When I select one or more students from the student list,<br />
+   Then the homework should be assigned only to the selected students.</p>
 
 
 
