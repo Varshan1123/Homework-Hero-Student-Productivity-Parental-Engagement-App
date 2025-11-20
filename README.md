@@ -24,6 +24,7 @@
 - [Feature Prioritization](#-feature-prioritization-rice-framework)
 - [Product Roadmap](#-product-roadmap)
 - [User Stories](#-User-Stories)
+- [Acceptance Criteria](#-Acceptance-Criteria)
 
 ---
 
@@ -288,10 +289,61 @@ Used RICE scoring to prioritize features for MVP and future releases:
 <p>Given I have entered the homework details,<br />
    When I select one or more students from the student list,<br />
    Then the homework should be assigned only to the selected students.</p>
+<p>Given the homework is created,<br />
+   When students log in,<br />
+   Then they should see the newly assigned homework on their dashboard.</p>
+<p>Given homework has been assigned,<br />
+   When students submit their work,<br />
+   Then the submissions should be visible in the teacher’s “Submissions” view.</p>
+<p>Given I am on the submission page,<br />
+   When I select a specific homework,<br />
+   Then I should see a list of students Submitted.</p>
+<p>Given a student has submitted a file,<br />
+   When I click on their submission,<br />
+   Then I should be able to view the uploaded file.</p>
+<p>Given I am the creator of the homework,<br />
+   When I click “Edit”,<br />
+   Then I should be able to update the title, description, due date, or assigned students.</p>
+<p>Given I click “Delete”,<br />
+   When I confirm the deletion,<br />
+   Then the homework should be removed from: Teacher dashboard, Student dashboard, Submission list</p>
 
+#### As a student
+<p>Given homework is assigned to me,<br />
+   When I open my homework dashboard,<br />
+   Then I should see: Title , Subject , Due date , Description.</p>
+<p>Given homework has a future due date,<br />
+   When I view the list,<br />
+   Then I should be able to see all homework due today and upcoming.</p>
+<p>Given I want to submit homework,<br />
+   When I open my Submission dashboard,,<br />
+   Then I should be able to enter homework id , Assigned by, upload a file (PDF, image, etc.).</p>
+<p>Given submission is successful,<br />
+   When I reopen the homework,<br />
+   Then I should see the uploaded file preview.</p>
+<p>Given some homework tasks are still pending today,<br />
+   When I check my reward dashboard,<br />
+   Then the “Request Playtime” button should be hidden.</p>
+<p>Given all homework for today is completed,<br />
+   When I open the reward dashboard,<br />
+   Then the “Request Playtime” button should be visible.</p>
+<p>Given I click the “Request Playtime” button,<br />
+   When the request is sent,<br />
+   Then my parent should receive a notification.</p>
+<p>Given the request is sent,<br />
+   When I revisit the  reward dashboard,<br />
+   Then I should see the request status: Pending / Approved / Declined.</p>
 
-
-
+#### As a parent
+<p>Given my child receives new homework,<br />
+   When the teacher assigns it,<br />
+   Then I should receive a notification.</p>
+<p>Given my child submits all homework,<br />
+   When they click “Request Playtime”,<br />
+   Then I should receive a reward request notification.</p>
+<p>Given I have received a reward request,<br />
+   When I open the parent reward  dashboard,<br />
+   Then I should able to Approve, Decline. </p>
 
 ---
 
