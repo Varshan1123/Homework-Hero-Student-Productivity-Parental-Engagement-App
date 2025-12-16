@@ -148,7 +148,7 @@ We identified three primary user personas through extensive user research:
 8. ScreenCoach - Reward + screen time blocking but no teacher integration
 
 ### Feature Comparison:
-| Feature              | Google Classroom | ClassDojo | Seesaw | Klassroom | PBIS Rewards | Hero | Bark | ScreenCoach | Your App |
+| Feature              | Google Classroom | ClassDojo | Seesaw | Klassroom | PBIS Rewards | Hero | Bark | ScreenCoach | Our App |
 | -------------------- | ---------------- | --------- | ------ | --------- | ------------ | ---- | ---- | ----------- | -------- |
 | Homework Submission  | ✅                | ⚠️        | ✅      | ✅         | ❌            | ❌    | ❌    | ⚠️          | ✅        |
 | Reward System        | ❌                | ✅         | ❌      | ❌         | ✅            | ⚠️   | ❌    | ✅           | ✅        |
@@ -168,7 +168,7 @@ We identified three primary user personas through extensive user research:
 | ----------------------------------- | ----------------------------------------------------- |
 | Homework Submission + Reward System | No competitor has this combination                    |
 | Three-party accountability          | Teacher validates → Parent rewards → Student achieves |
-| App access control tied to homework | Only your app enforces this                           |
+| App access control tied to homework | Only our app enforces this                           |
 | Family incentive structure          | Parents give REAL rewards, not just digital badges    |
 
 ---
