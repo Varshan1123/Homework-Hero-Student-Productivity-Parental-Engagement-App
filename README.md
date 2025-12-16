@@ -148,8 +148,18 @@ We identified three primary user personas through extensive user research:
 8. ScreenCoach - Reward + screen time blocking but no teacher integration
 
 ### Feature Comparison:
-
-<img width="872" height="565" alt="image" src="https://github.com/user-attachments/assets/7f07cb1d-912c-4faf-9a74-530b2811ce7e" />
+| Feature              | Google Classroom | ClassDojo | Seesaw | Klassroom | PBIS Rewards | Hero | Bark | ScreenCoach | Your App |
+| -------------------- | ---------------- | --------- | ------ | --------- | ------------ | ---- | ---- | ----------- | -------- |
+| Homework Submission  | ✅                | ⚠️        | ✅      | ✅         | ❌            | ❌    | ❌    | ⚠️          | ✅        |
+| Reward System        | ❌                | ✅         | ❌      | ❌         | ✅            | ⚠️   | ❌    | ✅           | ✅        |
+| Teacher Integration  | ✅                | ✅         | ✅      | ✅         | ✅            | ✅    | ❌    | ❌           | ✅        |
+| Parent Visibility    | ⚠️               | ✅         | ✅      | ✅         | ⚠️           | ✅    | ✅    | ✅           | ✅        |
+| App Access Control   | ❌                | ❌         | ❌      | ❌         | ❌            | ❌    | ✅    | ⚠️          | ✅        |
+| Reward Unlocking     | ❌                | ⚠️        | ❌      | ❌         | ⚠️           | ❌    | ❌    | ✅           | ✅        |
+| Family Incentive     | ❌                | ⚠️        | ❌      | ❌         | ❌            | ❌    | ❌    | ✅           | ✅        |
+| Access Restriction   | ❌                | ❌         | ❌      | ❌         | ❌            | ❌    | ✅    | ✅           | ✅        |
+| Homework Enforcement | ⚠️               | ❌         | ⚠️     | ⚠️        | ❌            | ❌    | ❌    | ❌           | ✅        |
+| Real-time Feedback   | ✅                | ✅         | ✅      | ✅         | ✅            | ✅    | ❌    | ⚠️          | ✅        |
 
 
 ### Our Competitive Edge:
