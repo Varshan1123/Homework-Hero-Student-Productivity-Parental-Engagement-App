@@ -138,21 +138,28 @@ We identified three primary user personas through extensive user research:
 
 ### Main Competitors:
 
-| Competitor | Primary Function | Target User |
-|-----------|------------------|-------------|
-| **Google Classroom** | Homework assignment and management | Teachers & Schools |
-| **Forest / Focus To-Do** | Focus and task gamification | Students |
-| **Google Family Link / Apple Screen Time** | Parental control for device usage | Parents |
-
-<img width="595" height="76" alt="Competitor Overview" src="https://github.com/user-attachments/assets/6facd892-4747-4a33-8897-36ae193aadf0" />
+1. Google Classroom - Market leader but lacks rewards & parental controls
+2. ClassDojo - Strong gamification but weak homework submission
+3. Seesaw - Great portfolio but no rewards or access controls
+4. Klassroom - Homework-specific but missing reward system
+5. PBIS Rewards - Strong reward system but school-only, no homework tracking
+6. Hero - Behavior management with no homework features
+7. Bark - Parental controls but no academic incentives
+8. ScreenCoach - Reward + screen time blocking but no teacher integration
 
 ### Feature Comparison:
 
-<img width="1051" height="353" alt="Feature Analysis" src="https://github.com/user-attachments/assets/1563aaf9-1b34-40e2-93b5-2303e3251e8b" />
+<img width="872" height="565" alt="image" src="https://github.com/user-attachments/assets/7f07cb1d-912c-4faf-9a74-530b2811ce7e" />
 
-### Competitive Advantage:
 
-<img width="1586" height="281" alt="Competitive Positioning" src="https://github.com/user-attachments/assets/943328b0-3272-4f15-a798-9a3cf1fca08a" />
+### Our Competitive Edge:
+
+| Feature                             | Advantage                                             |
+| ----------------------------------- | ----------------------------------------------------- |
+| Homework Submission + Reward System | No competitor has this combination                    |
+| Three-party accountability          | Teacher validates → Parent rewards → Student achieves |
+| App access control tied to homework | Only your app enforces this                           |
+| Family incentive structure          | Parents give REAL rewards, not just digital badges    |
 
 ---
 
