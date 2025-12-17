@@ -146,7 +146,7 @@ We identified three primary user personas through extensive user research:
 6. Hero - Behavior management with no homework features
 7. Bark - Parental controls but no academic incentives
 8. ScreenCoach - Reward + screen time blocking but no teacher integration
-
+    📋 **Detail Report:** [Competitive Analysis Report](https://drive.google.com/file/d/1PWQhhByzlf3u8bMdKBxP1pSByOOofSSt/view?usp=sharing)
 ### Feature Comparison:
 | Feature              | Google Classroom | ClassDojo | Seesaw | Klassroom | PBIS Rewards | Hero | Bark | ScreenCoach | Our App |
 | -------------------- | ---------------- | --------- | ------ | --------- | ------------ | ---- | ---- | ----------- | -------- |
